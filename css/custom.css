@@ -1,0 +1,60 @@
+.focus
+{
+    background-color:#E7E7E7;
+}
+.mainimg
+{
+	margin:10%;
+	border-radius:5% 5% 5% 5%;
+}
+red
+{
+	color: red;
+	font-weight: bold;
+}
+.map
+{
+	height:300px;
+	width: 90%;
+	border:2px solid black;
+	border-radius: 2px;
+}
+b
+{
+	font-weight: bold;
+}
+i
+{
+	font-style: italic;
+	text-decoration: underline;
+}
+.para
+{
+	display: none;
+}
+.readabs
+{
+	cursor: pointer;
+	color: rgb(51, 122, 183);
+}
+.hideabs
+{
+	cursor: pointer;
+	color: rgb(51, 122, 183);
+}
+.tags{
+	list-style:none;
+	display: inline-block;
+}
+.tags li{
+	border-radius: 5px;
+	padding: 2px;
+	margin: 1px;
+	display: inline-block;
+	border: 2px solid rgb(51, 122, 183);
+	list-style:none;
+	cursor: pointer;
+}
+.tags li:hover{
+	background-color: rgb(51, 122, 183);
+}
